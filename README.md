@@ -2,7 +2,7 @@
 <blockquote align="center">With ❤ crafting - For 💯 striving</blockquote>
 
 <p align="center">
-  Hey there, I'm <b>Khang</b> Nguyen Duy. A software engineer and a front-end enthusiast.<br>Let's connect!
+  Hey there, I'm <b>Khang</b> Nguyen Duy. A software developer and a front-end enthusiast.<br>Connect with me in any social platform below.
 </p>
 
 <p align="center">
