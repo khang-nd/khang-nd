@@ -34,6 +34,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=khang-nd&border_radius=0&bg_color=19252f&text_color=fff&title_color=67b7dc&hide_border=true" alt="Github Stats" width="500">
   </a>
   <a href="https://dev.to/khangnd">
-    <img src="https://dev-stats.vercel.app?background=19252f&text=fff" alt="DEV.to Stats" width="500">
+    <img src="https://dev-stats-khangnd.herokuapp.com?background=19252f&text=fff&1" alt="DEV.to Stats" width="500">
   </a>
 </p>
